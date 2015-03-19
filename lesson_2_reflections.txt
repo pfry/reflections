@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    A git directory is created with the files necessary for a repo.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    It allows only certain files within a directory to be tracked in a repo.
